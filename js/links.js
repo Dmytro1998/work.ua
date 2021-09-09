@@ -1,0 +1,1 @@
+export let linkToTheServer = "https://61322b39ab7b1e001799b39b.mockapi.io/api/jobs"
